@@ -1,8 +1,6 @@
 # QuantumEntropyX
 <div align="center">
 
-<img src="https://github.com/QuantumEntropyX.png" width="160"/>
-
 # QuantumEntropyX
 
 🚀 **Rewriting Quantum Measurement through Entropy-Aware Collapse**
